@@ -66,4 +66,4 @@ Instalación:
 
 ## Video de explicación
 
-Si quieres ver el video en donde se explica el ejercicio paso a paso  [te comparto el siguiente enlace](https://youtu.be/sQwDLrleegA)
+Si quieres ver el video en donde se explica el ejercicio paso a paso  [te comparto el siguiente enlace](https://youtu.be/aaR9JNkFcnc?si=3wMGLrlnAnwsbhbm)
